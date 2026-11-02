@@ -1,0 +1,110 @@
+{
+  "query": "A yellow taxi on a busy avenue",
+  "threshold": 0.6,
+  "items": [
+    {
+      "id": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready@0",
+      "camera": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready",
+      "video": "/content/casefile/videos/mixkit-manhattan-avenue-with-traffic-4335-hd-ready.mp4",
+      "start": 0.0,
+      "end": 5.0,
+      "description": "The video captures a busy urban intersection with multiple lanes of traffic, including yellow taxis and cars. Pedestrians are visible, and traffic signals are present. The scene is dynamic, with vehicles moving and pedestrians crossing the street.",
+      "similarity": 0.589232325553894,
+      "p_yes": 0.9703066182545419,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-manhattan-avenue-with-traffic-4335-hd-ready_at_0.mp4",
+      "thumb_file": "thumbs/mixkit-manhattan-avenue-with-traffic-4335-hd-ready_at_0.jpg"
+    },
+    {
+      "id": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready@5",
+      "camera": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready",
+      "video": "/content/casefile/videos/mixkit-manhattan-avenue-with-traffic-4335-hd-ready.mp4",
+      "start": 5.0,
+      "end": 6.333333333333333,
+      "description": "The video captures a busy city street scene with multiple vehicles, including yellow taxis and a black car. Pedestrians are visible, and traffic signals are in place. The scene is dynamic, with vehicles moving and pedestrians walking, creating a sense of movement and activity.",
+      "similarity": 0.5613994002342224,
+      "p_yes": 0.9808929668573769,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-manhattan-avenue-with-traffic-4335-hd-ready_at_5.mp4",
+      "thumb_file": "thumbs/mixkit-manhattan-avenue-with-traffic-4335-hd-ready_at_5.jpg"
+    },
+    {
+      "id": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)@0",
+      "camera": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)",
+      "video": "/content/casefile/videos/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1).mp4",
+      "start": 0.0,
+      "end": 5.0,
+      "description": "The video captures a busy urban intersection with multiple lanes of traffic, including yellow taxis and cars. Pedestrians are visible, and traffic signals are present. The scene is dynamic, with vehicles moving and pedestrians crossing the street.",
+      "similarity": 0.589232325553894,
+      "p_yes": 0.9703066182545419,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)_at_0.mp4",
+      "thumb_file": "thumbs/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)_at_0.jpg"
+    },
+    {
+      "id": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)@5",
+      "camera": "mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)",
+      "video": "/content/casefile/videos/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1).mp4",
+      "start": 5.0,
+      "end": 6.333333333333333,
+      "description": "The video captures a busy city street scene with multiple vehicles, including yellow taxis and a black car. Pedestrians are visible, and traffic signals are in place. The scene is dynamic, with vehicles moving and pedestrians walking, creating a sense of movement and activity.",
+      "similarity": 0.5613994002342224,
+      "p_yes": 0.9808929668573769,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)_at_5.mp4",
+      "thumb_file": "thumbs/mixkit-manhattan-avenue-with-traffic-4335-hd-ready (1)_at_5.jpg"
+    },
+    {
+      "id": "mixkit-traffic-light-directing-traffic-4272-hd-ready@5",
+      "camera": "mixkit-traffic-light-directing-traffic-4272-hd-ready",
+      "video": "/content/casefile/videos/mixkit-traffic-light-directing-traffic-4272-hd-ready.mp4",
+      "start": 5.0,
+      "end": 10.0,
+      "description": "The video captures a busy street scene in New York City. A yellow taxi is driving down the street, while a pedestrian is crossing the street. There are also cars parked along the side of the road, and a traffic light is visible. The scene is bustling with activity, with people walking and vehicles moving through the area.",
+      "similarity": 0.662431538105011,
+      "p_yes": 0.9859604284849136,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-traffic-light-directing-traffic-4272-hd-ready_at_5.mp4",
+      "thumb_file": "thumbs/mixkit-traffic-light-directing-traffic-4272-hd-ready_at_5.jpg"
+    },
+    {
+      "id": "mixkit-traffic-light-directing-traffic-4272-hd-ready@25",
+      "camera": "mixkit-traffic-light-directing-traffic-4272-hd-ready",
+      "video": "/content/casefile/videos/mixkit-traffic-light-directing-traffic-4272-hd-ready.mp4",
+      "start": 25.0,
+      "end": 26.7,
+      "description": "The video captures a bustling city street scene. A yellow taxi is driving down the street, followed by a white car. Pedestrians are visible on the sidewalks, and a cyclist is riding on the road. The traffic signals are visible, and there are no notable events or blockages in the scene. The overall atmosphere is busy and dynamic.",
+      "similarity": 0.6262379884719849,
+      "p_yes": 0.9693704729707914,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-traffic-light-directing-traffic-4272-hd-ready_at_25.mp4",
+      "thumb_file": "thumbs/mixkit-traffic-light-directing-traffic-4272-hd-ready_at_25.jpg"
+    },
+    {
+      "id": "mixkit-traffic-light-directing-traffic-4272-hd-ready (1)@5",
+      "camera": "mixkit-traffic-light-directing-traffic-4272-hd-ready (1)",
+      "video": "/content/casefile/videos/mixkit-traffic-light-directing-traffic-4272-hd-ready (1).mp4",
+      "start": 5.0,
+      "end": 10.0,
+      "description": "The video captures a busy street scene in New York City. A yellow taxi is driving down the street, while a pedestrian is crossing the street. There are also cars parked along the side of the road, and a traffic light is visible. The scene is bustling with activity, with people walking and vehicles moving through the area.",
+      "similarity": 0.662431538105011,
+      "p_yes": 0.9859604284849136,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-traffic-light-directing-traffic-4272-hd-ready (1)_at_5.mp4",
+      "thumb_file": "thumbs/mixkit-traffic-light-directing-traffic-4272-hd-ready (1)_at_5.jpg"
+    },
+    {
+      "id": "mixkit-traffic-light-directing-traffic-4272-hd-ready (1)@25",
+      "camera": "mixkit-traffic-light-directing-traffic-4272-hd-ready (1)",
+      "video": "/content/casefile/videos/mixkit-traffic-light-directing-traffic-4272-hd-ready (1).mp4",
+      "start": 25.0,
+      "end": 26.7,
+      "description": "The video captures a bustling city street scene. A yellow taxi is driving down the street, followed by a white car. Pedestrians are visible on the sidewalks, and a cyclist is riding on the road. The traffic signals are visible, and there are no notable events or blockages in the scene. The overall atmosphere is busy and dynamic.",
+      "similarity": 0.6262379884719849,
+      "p_yes": 0.9693704729707914,
+      "verifier": "Yes",
+      "clip_file": "clips/mixkit-traffic-light-directing-traffic-4272-hd-ready (1)_at_25.mp4",
+      "thumb_file": "thumbs/mixkit-traffic-light-directing-traffic-4272-hd-ready (1)_at_25.jpg"
+    }
+  ]
+}
